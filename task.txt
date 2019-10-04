@@ -1,0 +1,4 @@
+task:
+1. matplotlib
+2. find papers
+3. real experience
